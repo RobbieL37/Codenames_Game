@@ -9,9 +9,9 @@ Author: Xiaofeng Liang (Robbie), Tamanno Maripova, Aikunim Sailanbayeva
 Final Version Date: 5/16/2023
 
 ## Sample pages screenshot:
-![alt text](https://github.com/RobbieL37/Codenames_Game/codenames_homepage.png)
-![alt text](https://github.com/RobbieL37/Codenames_Game/spymaster_mode.png)
-![alt text](https://github.com/RobbieL37/Codenames_Game/definition_page.png)
-![alt text](https://github.com/RobbieL37/Codenames_Game/player_mode.png)
+![ScreenShot](https://github.com/RobbieL37/Codenames_Game/codenames_homepage.png)
+![alt text](https://github.com/RobbieL37/Codenames_Game/spymaster_mode.png "Spymaster")
+![alt text](https://github.com/RobbieL37/Codenames_Game/definition_page.png "definition")
+![alt text](https://github.com/RobbieL37/Codenames_Game/player_mode.png "player")
 
 

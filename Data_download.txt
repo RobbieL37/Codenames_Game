@@ -1,0 +1,3 @@
+Load a premade word2vec model built on Google News articles.
+
+Download from: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM
